@@ -50,7 +50,7 @@ Welcome to my GitHub page! 🚀 I'm Haya, a Full-Stack developer.💻 I bring ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaya-joo&langs_count=10&layout=compact&bg_color=000000&text_color=ffffff)
 
 ### **🔥 GitHub Streak** 
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo&background=000000&ring=ffffff&fire=ff4500&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo)
 
 
 
