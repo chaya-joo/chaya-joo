@@ -32,22 +32,25 @@ Welcome to my GitHub page! 🚀 I'm Haya, a Full-Stack developer.💻 I bring ex
 [![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
-### **📊 GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaya-joo&show_icons=true&count_private=true&hide_title=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaya-joo&langs_count=10&layout=compact)
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo)
-
 <!--
-**chaya-joo/chaya-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏅 GitHub Stats & Achievements
 
-Here are some ideas to get you started:
-Welcome to my GitHub page! I'm Haya, a Full-Stack developer. I bring experience in React, Node.js, C#, Python, and a variety of other technologies to the table. Learning new tools is my thing – right now, I'm diving into Power BI and SQL, and contributing to skiiLink as a way to give back to the community.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Stars**: ![Stars](https://img.shields.io/github/stars/chaya-joo?style=flat-square)
+- **Forks**: ![Forks](https://img.shields.io/github/forks/chaya-joo?style=flat-square)
+- **Commits**: ![Commits](https://img.shields.io/github/commits-since/chaya-joo/PROJECT_1/latest?style=flat-square)
+- **Branches**: ![Branches](https://img.shields.io/github/branches/chaya-joo/PROJECT_1?style=flat-square)
+- **Repositories**: ![Repositories](https://img.shields.io/github/repositories/chaya-joo?style=flat-square)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/chaya-joo?style=flat-square)
+- -->
+
+### **📊 GitHub Stats**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaya-joo&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=000000&text_color=ffffff&icon_color=79ff97)
+
+### **🚀 Most Used Languages** 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaya-joo&langs_count=10&layout=compact&bg_color=000000&text_color=ffffff)
+
+### **🔥 GitHub Streak** 
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo&background=000000&ring=ffffff&fire=ff4500&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff)
+
+
+
