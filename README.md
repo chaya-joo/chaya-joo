@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Chaya Yungerman (@chaya-joo)
-Welcome to my GitHub page! 🚀 I'm Haya, a Full-Stack developer.💻 I bring experience in React, Node.js, C#, Python, and a variety of other technologies to the table. Learning new tools is my thing – right now, I'm diving into Power BI and SQL 📊, and contributing to [skillink](https://www.skillink.org/) as a way to give back to the community.
+Welcome to my GitHub page! 🚀 I'm Chaya, a Full-Stack developer.💻 I bring experience in React, Node.js, C#, Python, and a variety of other technologies to the table. Learning new tools is my thing – right now, I'm diving into Power BI and SQL 📊, and contributing to [skillink](https://www.skillink.org/) as a way to give back to the community.
 ## 🛠️ Tools & Skills  
 
 ### **🖥 Backend**  
