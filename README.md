@@ -8,7 +8,6 @@ Welcome to my GitHub page! 🚀 I'm Haya, a Full-Stack developer.💻 I bring ex
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=gray)](https://expressjs.com/)
 
 ### **🌐 Frontend**  
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -50,7 +49,8 @@ Welcome to my GitHub page! 🚀 I'm Haya, a Full-Stack developer.💻 I bring ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaya-joo&langs_count=10&layout=compact&bg_color=000000&text_color=ffffff)
 
 ### **🔥 GitHub Streak** 
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=chaya-joo&background=000000&ring=ffffff&fire=ff4500&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff)
+
 
 
 
